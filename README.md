@@ -1,5 +1,7 @@
 # UK Road Safety ETL Pipeline
 
+![Python CI](https://github.com/mabdalla-dev/uk-road-safety-pipeline/actions/workflows/tests.yml/badge.svg)
+
 An end-to-end Python ETL pipeline that processes UK road safety data from the Department for Transport (DfT), performs data quality validation, and loads related datasets into a relational SQLite database.
 
 The project demonstrates practical data engineering concepts including data extraction, transformation, validation, relational database design, automated testing and SQL analysis.
